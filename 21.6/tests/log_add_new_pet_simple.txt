@@ -1,0 +1,133 @@
+Name Func: add_new_pet_simple
+Headers of query: {'auth_key': '7022ca75f4577ff8718f5bd448e6f0bbaaf5789b7727c3c09ef268c9', 'Content-Type': 'multipart/form-data; boundary=26192b12b5e94674b2cf98061d67de49'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': 'Енот', 'animal_type': 'кот', 'age': '8'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '252', 'Content-Type': 'application/json', 'Date': 'Wed, 01 Feb 2023 13:34:47 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.2', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '7022ca75f4577ff8718f5bd448e6f0bbaaf5789b7727c3c09ef268c9', 'Content-Type': 'multipart/form-data; boundary=26192b12b5e94674b2cf98061d67de49', 'Content-Length': '314'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "8",
+    "animal_type": "кот",
+    "created_at": "1675258487.8095767",
+    "id": "eb9a4357-97c2-43ce-a6a4-25e1890835d7",
+    "name": "Енот",
+    "pet_photo": "",
+    "user_id": "7022ca75f4577ff8718f5bd448e6f0bbaaf5789b7727c3c09ef268c9"
+}Name Func: add_new_pet_simple
+Headers of query: {'auth_key': '7022ca75f4577ff8718f5bd448e6f0bbaaf5789b7727c3c09ef268c9', 'Content-Type': 'multipart/form-data; boundary=ecf7dfd4ccd64e98b6223c5ae5d6d9b9'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': 'Енот', 'animal_type': 'кот', 'age': '8'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '252', 'Content-Type': 'application/json', 'Date': 'Wed, 01 Feb 2023 13:34:50 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.2', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '7022ca75f4577ff8718f5bd448e6f0bbaaf5789b7727c3c09ef268c9', 'Content-Type': 'multipart/form-data; boundary=ecf7dfd4ccd64e98b6223c5ae5d6d9b9', 'Content-Length': '314'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "8",
+    "animal_type": "кот",
+    "created_at": "1675258490.6822267",
+    "id": "d05684f5-635b-46c1-b7f5-816648aef34c",
+    "name": "Енот",
+    "pet_photo": "",
+    "user_id": "7022ca75f4577ff8718f5bd448e6f0bbaaf5789b7727c3c09ef268c9"
+}Name Func: add_new_pet_simple
+Headers of query: {'auth_key': '7022ca75f4577ff8718f5bd448e6f0bbaaf5789b7727c3c09ef268c9', 'Content-Type': 'multipart/form-data; boundary=498d54f786fb40bab93e291f32f00962'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': 'КокосНеКот', 'animal_type': 'cat', 'age': '#@%$'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '276', 'Content-Type': 'application/json', 'Date': 'Wed, 01 Feb 2023 13:34:52 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.2', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '7022ca75f4577ff8718f5bd448e6f0bbaaf5789b7727c3c09ef268c9', 'Content-Type': 'multipart/form-data; boundary=498d54f786fb40bab93e291f32f00962', 'Content-Length': '326'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "#@%$",
+    "animal_type": "cat",
+    "created_at": "1675258492.2942023",
+    "id": "949b75a0-66d0-4f99-9eb5-b14366731c8b",
+    "name": "КокосНеКот",
+    "pet_photo": "",
+    "user_id": "7022ca75f4577ff8718f5bd448e6f0bbaaf5789b7727c3c09ef268c9"
+}Name Func: add_new_pet_simple
+Headers of query: {'auth_key': '7022ca75f4577ff8718f5bd448e6f0bbaaf5789b7727c3c09ef268c9', 'Content-Type': 'multipart/form-data; boundary=7350dbca4dee4b7088e27b11181f5516'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': 'Енот', 'animal_type': 'кот', 'age': '8'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '252', 'Content-Type': 'application/json', 'Date': 'Wed, 01 Feb 2023 13:52:11 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.2', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '7022ca75f4577ff8718f5bd448e6f0bbaaf5789b7727c3c09ef268c9', 'Content-Type': 'multipart/form-data; boundary=7350dbca4dee4b7088e27b11181f5516', 'Content-Length': '314'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "8",
+    "animal_type": "кот",
+    "created_at": "1675259531.8667173",
+    "id": "32f46d92-ea6c-408c-a70a-da76c311d873",
+    "name": "Енот",
+    "pet_photo": "",
+    "user_id": "7022ca75f4577ff8718f5bd448e6f0bbaaf5789b7727c3c09ef268c9"
+}Name Func: add_new_pet_simple
+Headers of query: {'auth_key': '7022ca75f4577ff8718f5bd448e6f0bbaaf5789b7727c3c09ef268c9', 'Content-Type': 'multipart/form-data; boundary=19f540fbf31249b29da883f143c325b5'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': 'Енот', 'animal_type': 'кот', 'age': '8'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '251', 'Content-Type': 'application/json', 'Date': 'Wed, 01 Feb 2023 13:52:16 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.2', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '7022ca75f4577ff8718f5bd448e6f0bbaaf5789b7727c3c09ef268c9', 'Content-Type': 'multipart/form-data; boundary=19f540fbf31249b29da883f143c325b5', 'Content-Length': '314'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "8",
+    "animal_type": "кот",
+    "created_at": "1675259536.115347",
+    "id": "0b1e4901-f524-4b56-8838-1ec8bdbaf409",
+    "name": "Енот",
+    "pet_photo": "",
+    "user_id": "7022ca75f4577ff8718f5bd448e6f0bbaaf5789b7727c3c09ef268c9"
+}Name Func: add_new_pet_simple
+Headers of query: {'auth_key': '7022ca75f4577ff8718f5bd448e6f0bbaaf5789b7727c3c09ef268c9', 'Content-Type': 'multipart/form-data; boundary=728c1e19b0394884b3411fb652517d35'}
+Path parametrs: None
+Query parametrs: <class 'filter'>
+Query body: <MultipartEncoder: {'name': 'КокосНеКот', 'animal_type': 'cat', 'age': '#@%$'}>
+Content: {'Access-Control-Allow-Origin': '*', 'Content-Length': '276', 'Content-Type': 'application/json', 'Date': 'Wed, 01 Feb 2023 13:52:18 GMT'}
+Optional: {'User-Agent': 'python-requests/2.28.2', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'auth_key': '7022ca75f4577ff8718f5bd448e6f0bbaaf5789b7727c3c09ef268c9', 'Content-Type': 'multipart/form-data; boundary=728c1e19b0394884b3411fb652517d35', 'Content-Length': '326'}
+URL: https://petfriends.skillfactory.ru/api/create_pet_simple
+Path URL: /api/create_pet_simple
+Cookie: <RequestsCookieJar[]>
+==========================================================
+Response status: 200
+Response body:
+{
+    "_id": "",
+    "age": "#@%$",
+    "animal_type": "cat",
+    "created_at": "1675259538.2386947",
+    "id": "ffe52d81-4125-425c-bad8-0eec4a430ea1",
+    "name": "КокосНеКот",
+    "pet_photo": "",
+    "user_id": "7022ca75f4577ff8718f5bd448e6f0bbaaf5789b7727c3c09ef268c9"
+}
